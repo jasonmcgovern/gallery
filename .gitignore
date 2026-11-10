@@ -1,0 +1,6 @@
+openai_api_key.txt
+*_api_key.txt
+.env
+*.xlsx
+*.csv
+*.pkl
