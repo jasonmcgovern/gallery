@@ -1,0 +1,30 @@
+{
+  "source_repo": "jasonmcgovern/toolbox",
+  "last_sync": "2026-11-10",
+  "files": {
+    "altTextGenerator_v3.ipynb": {
+      "gallery_path": "altTextGenerator_v3.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    },
+    "keywordContentMatchAnalyzer_V4.ipynb": {
+      "gallery_path": "keywordContentMatchAnalyzer_V4.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    },
+    "semRushCompetitorComparison_updated.ipynb": {
+      "gallery_path": "semRushCompetitorComparison_updated.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    },
+    "hubSpotImpersonator.ipynb": {
+      "gallery_path": "hubSpotImpersonator.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    },
+    "hubSpotImpersonator_brandSentiment.ipynb": {
+      "gallery_path": "hubSpotImpersonator_brandSentiment.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    },
+    "socsDeathStar_updatedv3_26.ipynb": {
+      "gallery_path": "socsDeathStar_updatedv3_26.ipynb",
+      "source_sha": "aab538fbfa29e585733bfce2a63e021b8250d9c5"
+    }
+  }
+}
